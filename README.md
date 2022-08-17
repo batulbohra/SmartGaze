@@ -1,1 +1,1 @@
-# SmartGaze
+# Smart Gaze
